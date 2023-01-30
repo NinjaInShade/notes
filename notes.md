@@ -1,6 +1,6 @@
 # Dev notes
 
-Welcome to my personal dev notes :) <br />
+Welcome to my personal dev notes <br />
 Started on 25/01/2023, this is a bunch of my most used references, snippets, ideas and links that can be used to go back to whenever they are needed.
 
 ## **Javascript**
