@@ -6,6 +6,7 @@ Started on 25/01/2023, this is a bunch of my most used references, snippets, ide
 ## **Javascript**
 
 - Find what class an object is: `[obj].constructor.name`
+- Find out if a key is in an object: `('key' in obj)`
 - For checking if a string is equal to many options you can use `[1, 2, 3, 4, 5, ...].includes(stringToMatch);`
 
 ## **Typescript**
