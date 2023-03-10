@@ -77,4 +77,4 @@ There are 3 main basic parts to docker
 
 ## **NPM**
 
--   `npm publish [minor/patch/major]` to bump version number in package
+-   `npm version [minor/patch/major]` to bump version number in package
